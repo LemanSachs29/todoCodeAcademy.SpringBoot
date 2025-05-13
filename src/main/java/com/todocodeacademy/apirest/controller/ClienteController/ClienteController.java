@@ -48,6 +48,5 @@ public class ClienteController {
 
         return new ResponseEntity<>("Esto es un mensaje Response Entity", HttpStatus.OK);
     }
-    
-    
+        
 }

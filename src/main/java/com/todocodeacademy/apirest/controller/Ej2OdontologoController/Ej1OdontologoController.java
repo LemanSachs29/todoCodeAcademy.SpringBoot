@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.todocodeacademy.apirest.dto.ClienteOdontologoDto.ClienteOdontologoDto;
-import com.todocodeacademy.apirest.dto.PlatoDto.PlatoDto;
+
 
 @RestController
 public class Ej1OdontologoController {

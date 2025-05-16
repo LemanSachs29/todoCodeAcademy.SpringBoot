@@ -1,4 +1,4 @@
-package com.todocodeacademy.apirest.service;
+package com.todocodeacademy.apirest.service.IPersonaService;
 
 import java.util.List;
 

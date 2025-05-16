@@ -1,10 +1,11 @@
-package com.todocodeacademy.apirest.service;
+package com.todocodeacademy.apirest.service.PersonaService;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
 import com.todocodeacademy.apirest.model.Persona;
+import com.todocodeacademy.apirest.service.IPersonaService.IPersonaService;
 
 @Service 
 public class PersonaService implements IPersonaService{

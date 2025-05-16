@@ -1,13 +1,10 @@
 package com.todocodeacademy.apirest.controller.Ej2OdontologoController;
-
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.ArrayList;
 import java.util.List;
-
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-
 import com.todocodeacademy.apirest.dto.ClienteOdontologoDto.ClienteOdontologoDto;
 
 

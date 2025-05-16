@@ -1,4 +1,4 @@
-package com.todocodeacademy.apirest.dto;
+package com.todocodeacademy.apirest.dto.ClienteDto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

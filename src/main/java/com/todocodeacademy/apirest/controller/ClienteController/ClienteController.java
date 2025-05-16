@@ -2,7 +2,7 @@ package com.todocodeacademy.apirest.controller.ClienteController;
 
 import org.springframework.web.bind.annotation.RestController;
 
-import com.todocodeacademy.apirest.dto.ClienteDto;
+import com.todocodeacademy.apirest.dto.ClienteDto.ClienteDto;
 
 import java.util.ArrayList;
 import java.util.List;
